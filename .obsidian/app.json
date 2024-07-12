@@ -1,4 +1,6 @@
 {
   "vimMode": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Atomic Notes"
 }

@@ -4,36 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d895d51152c6c6",
+        "id": "f0014d88b71e5f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "b80f23163f59b763",
+            "id": "3b567bcffaac85a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2 - Source Material/Articles/Learn vim with the hard way.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c155fe36e2756af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/ML Journey.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4bb9b3a084b1898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/ML Journey.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "09a369ae9c127ec4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8dfc7737760ac93",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "6 - Atomic Notes/ML Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "6 - Atomic Notes/ML Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "6 - Atomic Notes/ML Journey.md"
               }
             }
           }
@@ -157,11 +171,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b80f23163f59b763",
+  "active": "f4bb9b3a084b1898",
   "lastOpenFiles": [
+    "6 - Atomic Notes/Qutebrowser Installation Process.md",
+    "6 - Atomic Notes/ML Journey.md",
+    "6 - Atomic Notes/Frontend Journey.md",
+    "2 - Source Material/Articles/Learn vim with the hard way.md",
+    "6 - Atomic Notes/learning.md",
+    "5 - Templates/Atomic Note.md",
+    "6 - Atomic Notes/Untitled.md",
+    "6 - Atomic Notes/create a link.md",
+    "2 - Source Material/Videos",
+    "2 - Source Material/Others",
+    "2 - Source Material/Paper",
+    "2 - Source Material/Books",
+    "2 - Source Material/Articles",
+    "6 - Atomic Notes",
+    "5 - Templates",
+    "4 - Indices",
+    "3 - Tags",
+    "2 - Source Material",
     "Welcome.md"
   ]
 }
