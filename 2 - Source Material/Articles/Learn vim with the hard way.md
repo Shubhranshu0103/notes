@@ -2,9 +2,7 @@
 
 12:07
 
-Tags: [[learning]] [[vim]] 
-
-# Learn vim with the hard way
+Tags: #Learn #Vim 
 
 
 - \[i/n]map is recursive mapping

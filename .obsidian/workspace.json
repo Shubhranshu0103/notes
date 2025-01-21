@@ -4,50 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "f0014d88b71e5f0b",
+        "id": "fa79080eec173097",
         "type": "tabs",
         "children": [
           {
-            "id": "3b567bcffaac85a9",
+            "id": "93eb47a4590a08b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Articles/Learn vim with the hard way.md",
+                "file": "6 - Atomic Notes/Raag.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Raag"
             }
           },
           {
-            "id": "c155fe36e2756af3",
+            "id": "8cbea112f413c901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/ML Journey.md",
+                "file": "6 - Atomic Notes/Various Raags.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Various Raags"
             }
           },
           {
-            "id": "f4bb9b3a084b1898",
+            "id": "bc91a7dad91a9403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/ML Journey.md",
+                "file": "6 - Atomic Notes/Raag.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Raag"
+            }
+          },
+          {
+            "id": "33ad336702bf3018",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +83,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,13 +94,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -90,10 +110,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/ML Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -130,10 +154,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/ML Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -144,7 +169,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -152,17 +179,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Atomic Notes/ML Journey.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,26 +202,41 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "f4bb9b3a084b1898",
+  "active": "33ad336702bf3018",
   "lastOpenFiles": [
     "6 - Atomic Notes/Qutebrowser Installation Process.md",
-    "6 - Atomic Notes/ML Journey.md",
-    "6 - Atomic Notes/Frontend Journey.md",
     "2 - Source Material/Articles/Learn vim with the hard way.md",
-    "6 - Atomic Notes/learning.md",
+    "1 - Rough Notes/20-01-2025.md",
+    "6 - Atomic Notes/Watched a video on SqlLite.md",
+    "6 - Atomic Notes/Raag Bhupali.md",
+    "6 - Atomic Notes/Lead Generation.md",
+    "6 - Atomic Notes/Funnel Marketing.md",
+    "6 - Atomic Notes/Product Marketing.md",
+    "6 - Atomic Notes/Raag.md",
+    "6 - Atomic Notes/Various Raags.md",
+    "6 - Atomic Notes/Vocal Classes.md",
+    "6 - Atomic Notes/Taals.md",
+    "6 - Atomic Notes/Alankars.md",
+    "6 - Atomic Notes/Meru Khand.md",
+    "sync_repo.sh",
+    "6 - Atomic Notes/Improving Handwriting.md",
+    "Welcome.md",
     "5 - Templates/Atomic Note.md",
-    "6 - Atomic Notes/Untitled.md",
+    "Attachments",
+    "Work/FRM Tracks.md",
+    "6 - Atomic Notes/Untitled 1.md",
+    "6 - Atomic Notes/learning.md",
+    "6 - Atomic Notes/Language Learning.md",
+    "6 - Atomic Notes/Frontend Journey.md",
+    "posts",
+    "6 - Atomic Notes/ML Journey.md",
+    "Work",
     "6 - Atomic Notes/create a link.md",
     "2 - Source Material/Videos",
     "2 - Source Material/Others",
     "2 - Source Material/Paper",
     "2 - Source Material/Books",
     "2 - Source Material/Articles",
-    "6 - Atomic Notes",
-    "5 - Templates",
-    "4 - Indices",
-    "3 - Tags",
-    "2 - Source Material",
-    "Welcome.md"
+    "6 - Atomic Notes"
   ]
 }

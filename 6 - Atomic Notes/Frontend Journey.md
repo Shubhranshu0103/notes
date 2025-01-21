@@ -2,7 +2,7 @@
 ## CSS
 
 ### Tutorials
-[FCC](https://www.youtube.com/watch?v=OXGznpKZ_sA&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E&index=3)
+[FreeCodeCamp](https://www.youtube.com/watch?v=OXGznpKZ_sA&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E&index=3)
 
 ### Facts
 - Inline elements can't have vertical height, margins etc
