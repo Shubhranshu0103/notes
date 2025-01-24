@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "fa41fae056e3f60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b79041e1a664433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436d827c94581dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/Raag Bhupali.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raag Bhupali"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08facc7bf1bb214d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a628d4486cdb8e5e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f2a1c355e1128489",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d766e4a4b81ee1bc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6a4d94dc8cf64167",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ea7fc0be6cf33fbb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e8f4b0057bdc4e7f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "6 - Atomic Notes/Qutebrowser Installation Process.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0dab8d567fccf11a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "6 - Atomic Notes/Qutebrowser Installation Process.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "344ecd76e304b7f8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "6 - Atomic Notes/Qutebrowser Installation Process.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "436d827c94581dbc",
+  "lastOpenFiles": [
+    "6 - Atomic Notes/Various Raags.md",
+    "6 - Atomic Notes/Raag.md",
+    "6 - Atomic Notes/Raag Bhupali.md",
+    "Work/FRM Tracks.md",
+    "Work",
+    "6 - Atomic Notes/Watched a video on SqlLite.md",
+    "6 - Atomic Notes/Vocal Classes.md",
+    "6 - Atomic Notes/Taals.md",
+    "6 - Atomic Notes/Meru Khand.md",
+    "6 - Atomic Notes/Language Learning.md",
+    "6 - Atomic Notes/Improving Handwriting.md",
+    "6 - Atomic Notes/Alankars.md",
+    "1 - Rough Notes/20-01-2025.md",
+    "1 - Rough Notes",
+    "6 - Atomic Notes/learning.md",
+    "6 - Atomic Notes/Untitled.md",
+    "6 - Atomic Notes/Qutebrowser Installation Process.md"
+  ]
+}
