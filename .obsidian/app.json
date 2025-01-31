@@ -4,5 +4,12 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "6 - Atomic Notes",
   "showLineNumber": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

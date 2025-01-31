@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/Users/shubhranshu.singh/.nix-profile/bin/pandoc",
+  "pdflatex": "/usr/local/texlive/2024/bin/universal-darwin/pdflatex",
+  "outputFolder": null,
+  "extraArguments": "",
+  "exportFrom": "html"
+}
