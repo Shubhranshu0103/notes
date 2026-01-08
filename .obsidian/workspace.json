@@ -4,131 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "fa79080eec173097",
+        "id": "4f78d3346de626c4",
         "type": "tabs",
         "children": [
           {
-            "id": "93eb47a4590a08b7",
+            "id": "a57b8919abd3fb5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Raag.md",
+                "file": "5 - Templates/Active Reading.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Raag"
+              "title": "Active Reading"
             }
           },
           {
-            "id": "8cbea112f413c901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Various Raags.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Various Raags"
-            }
-          },
-          {
-            "id": "bc91a7dad91a9403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Raag.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raag"
-            }
-          },
-          {
-            "id": "33ad336702bf3018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Vocal Classes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocal Classes"
-            }
-          },
-          {
-            "id": "2b7a521686dada08",
+            "id": "a6974f4eb8e33e0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1 - Rough Notes/31-01-2025.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "31-01-2025"
             }
           },
           {
-            "id": "925648d317d37cba",
+            "id": "7a3653badbfcdda8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "6 - Atomic Notes/Raag.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.10.6"
               },
-              "icon": "lucide-file",
-              "title": "Raag"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
-            "id": "73cdcf9a7334ce0b",
+            "id": "ae883b8687e0015d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Taals.md",
+                "file": "6 - Atomic Notes/Core components in A2A.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Taals"
-            }
-          },
-          {
-            "id": "531bf59120ad6364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Alankars.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alankars"
+              "title": "Core components in A2A"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +111,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -159,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nix",
+                "query": "tag:#google-A2A",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,7 +199,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -258,52 +224,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "544a9a5e3ee204dd",
+  "active": "7a3653badbfcdda8",
   "lastOpenFiles": [
-    "6 - Atomic Notes/Sonarqube docker installation.md",
-    "1 - Rough Notes/31-01-2025.md",
+    "1 - Rough Notes/24-01-2025.md",
+    "1 - Rough Notes/20-01-2025.md",
+    "Work/FRM Tracks.md",
+    "6 - Atomic Notes/Google A2A.md",
+    "6 - Atomic Notes/Core components in A2A.md",
+    "6 - Atomic Notes/Core.md",
+    "5 - Templates/Active Reading.md",
+    "6 - Atomic Notes/What is Google A2A.md",
+    "6 - Atomic Notes/Untitled 1.md",
+    "2 - Source Material/Articles/Learn vim with the hard way.md",
+    "6 - Atomic Notes/Untitled.md",
+    "5 - Templates/Atomic Note.md",
+    "6 - Atomic Notes/Raag.md",
     "6 - Atomic Notes/Vocal Classes.md",
+    "6 - Atomic Notes/Various Raags.md",
+    "6 - Atomic Notes/Raag Bhupali.md",
+    "6 - Atomic Notes/Sonarqube docker installation.md",
+    "6 - Atomic Notes/Note on Checkmarx Report.md",
+    "6 - Atomic Notes/Alankars.md",
+    "6 - Atomic Notes/Meru Khand.md",
+    "1 - Rough Notes/31-01-2025.md",
+    "6 - Atomic Notes/Taals.md",
+    "6 - Atomic Notes/tmux.md",
+    "6 - Atomic Notes/Qutebrowser Installation Process.md",
+    "6 - Atomic Notes/Practical Deep Learning for Coders.md",
     "6 - Atomic Notes/Vocal Classes.pdf",
     "6 - Atomic Notes/Vocal Classes.docx",
-    "6 - Atomic Notes/Raag.md",
-    "6 - Atomic Notes/Taals.md",
-    "6 - Atomic Notes/Alankars.md",
-    "1 - Rough Notes/24-01-2025.md",
-    "6 - Atomic Notes/Qutebrowser Installation Process.md",
-    "2 - Source Material/Articles/Learn vim with the hard way.md",
-    "1 - Rough Notes/20-01-2025.md",
     "6 - Atomic Notes/Watched a video on SqlLite.md",
-    "6 - Atomic Notes/Raag Bhupali.md",
-    "6 - Atomic Notes/Lead Generation.md",
-    "6 - Atomic Notes/Funnel Marketing.md",
-    "6 - Atomic Notes/Product Marketing.md",
-    "6 - Atomic Notes/Various Raags.md",
-    "6 - Atomic Notes/Meru Khand.md",
     "sync_repo.sh",
-    "6 - Atomic Notes/Improving Handwriting.md",
-    "Welcome.md",
-    "5 - Templates/Atomic Note.md",
     "Attachments",
-    "Work/FRM Tracks.md",
-    "6 - Atomic Notes/Untitled 1.md",
-    "6 - Atomic Notes/learning.md",
-    "6 - Atomic Notes/Language Learning.md",
-    "6 - Atomic Notes/Frontend Journey.md",
     "posts",
-    "6 - Atomic Notes/ML Journey.md",
     "Work",
     "2 - Source Material/Videos",
     "2 - Source Material/Others",

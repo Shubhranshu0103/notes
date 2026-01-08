@@ -6,7 +6,7 @@
   "showLineNumber": true,
   "attachmentFolderPath": "Attachments",
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
